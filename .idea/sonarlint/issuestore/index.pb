@@ -2,8 +2,6 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 ]
 -src/main/java/pages/HorizontalSliderPage.java,2\0\2088df7b6d8ce8739d5028751ee9be54033a3290
 R
@@ -18,8 +16,6 @@ _
 /src/test/java/slider/HorizontalSliderTests.java,9\1\9144968fc7897c82cee7ba9c8e9fd1bcaf6de3a5
 S
 #src/test/java/hover/HoverTests.java,3\6\369d1db1532529800aea5d355a2d9a4532531588
-T
-$src/test/java/alerts/AlertTests.java,9\8\9808cf1a2358f80c911cf5168ea5f0bf3783cc16
 S
 #src/main/java/pages/HoversPage.java,e\2\e29a94d70911793495bd816e9fa8b4ee1395679b
 [
@@ -52,3 +48,21 @@ Q
 ,src/main/java/pages/LargeAndDeepDomPage.java,4\c\4c6a111626344108e08c90a32854c125954061b5
 ]
 -src/test/java/javascript/JavaScriptTests.java,2\5\25a324e563b79fef0ad9cba72fba6f78f557eaa8
+c
+3src/main/java/pages/DynamicLoadingExample1Page.java,2\d\2d875af8f32831c33077c7452bd29584c74dc4c2
+U
+%src/main/java/pages/DropdownPage.java,2\f\2fef3dd0e54bbc03f744579bf30e89f3fd66994c
+X
+(src/main/java/pages/ContextMenuPage.java,a\b\abd1a4d39d556ae0eeacc8f0921555ee280c62f9
+W
+'src/main/java/pages/KeyPressesPage.java,4\b\4be6cffeccc5304611600a746a25c5cef381b4bb
+c
+3src/main/java/pages/DynamicLoadingExample2Page.java,f\2\f2960049d72476a4d7fc7770fb7b439a7a0fddaf
+[
++src/main/java/pages/DynamicLoadingPage.java,d\d\dd15740d7a40548b43b88d309a9c1db0c34b26b5
+\
+,src/main/java/pages/MultipleWindowsPage.java,8\a\8abb2c33f59ea6e65b993f5519180afbbe8897d5
+]
+-src/test/java/navigation/NavigationTests.java,9\9\99e3d110b55779c83b50c06039aa72c1019b6906
+V
+&src/test/java/windows/WindowTests.java,9\b\9bcfcefd8894c04af24b5204aef84db15d6bf85d
