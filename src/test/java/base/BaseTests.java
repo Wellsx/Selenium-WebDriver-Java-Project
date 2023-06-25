@@ -28,11 +28,18 @@ public class BaseTests {
     @BeforeClass // runs before each test class
     public void setUp(){
         //setup webdriver location
-//        var driverExtension = "";
-//        if (System.getenv("RUNNER_OS") != null){
-//            driverExtension = "-linux";
-//        }
-        System.setProperty("webdriver.chrome.driver", "resources/chromedriver.exe");
+        String driverPath;
+        if (System.getProperty("os.name").toLowerCase().contains("win")) {
+            // Running on Windows machine
+            driverPath = "resources/chromedriver.exe";
+        } else {
+            // Running on Linux machine
+            driverPath = "resources/chromedriver-linux";
+            // Add executable permissions to chromedriver-linux
+            File driverFile = new File(driverPath);
+            driverFile.setExecutable(true);
+        }
+        System.setProperty("webdriver.chrome.driver", driverPath);
         driver = new ChromeDriver(getChromeOptions());
         // wait for 30 seconds until it finds the element
         //driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
@@ -81,9 +88,9 @@ public class BaseTests {
     private ChromeOptions getChromeOptions(){
         ChromeOptions options = new ChromeOptions();
         options.addArguments("disable-infobars");
-//        var headless = Boolean.parseBoolean(System.getenv("HEADLESS_CHROME")) | false;
-//        options.setHeadless(headless);
-        options.addArguments("--headless");
+        var headless = Boolean.parseBoolean(System.getenv("HEADLESS_CHROME")) | false;
+        options.setHeadless(headless);
+        //options.addArguments("--headless");
         return options;
     }
 
