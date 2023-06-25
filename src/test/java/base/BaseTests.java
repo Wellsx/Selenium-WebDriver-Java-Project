@@ -28,7 +28,11 @@ public class BaseTests {
     @BeforeClass // runs before each test class
     public void setUp(){
         //setup webdriver location
-        System.setProperty("webdriver.chrome.driver", "resources/chromedriver.exe");
+        var driverExtension = "";
+        if (System.getenv("RUNNER_OS") != null){
+            driverExtension = "-linux";
+        }
+        System.setProperty("webdriver.chrome.driver", "resources/chromedriver" + driverExtension);
         driver = new ChromeDriver(getChromeOptions());
         // wait for 30 seconds until it finds the element
         //driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
@@ -77,7 +81,9 @@ public class BaseTests {
     private ChromeOptions getChromeOptions(){
         ChromeOptions options = new ChromeOptions();
         options.addArguments("disable-infobars");
-        //options.setHeadless(true);
+        //var headless = Boolean.parseBoolean(System.getenv("HEADLESS_CHROME"));
+        //options.setHeadless(headless);
+        options.addArguments("--headless");
         return options;
     }
 

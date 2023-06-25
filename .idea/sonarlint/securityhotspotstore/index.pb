@@ -26,8 +26,6 @@ V
 &src/main/java/pages/EmailSentPage.java,8\4\84093fc5ee31d54d18f374ab96c0c56de4f0c48b
 W
 'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
-Y
-)src/test/java/alerts/FileUploadTests.java,1\4\148ee20939b4dc053cfcb4ad763d3bfcb3600a60
 Z
 *src/main/java/pages/WysiwygEditorPage.java,0\d\0d1966bb8390eca24ce514f412a0bceefae26fe0
 T
@@ -66,3 +64,15 @@ V
 ,src/main/java/pages/MultipleWindowsPage.java,8\a\8abb2c33f59ea6e65b993f5519180afbbe8897d5
 [
 +src/main/java/pages/DynamicLoadingPage.java,d\d\dd15740d7a40548b43b88d309a9c1db0c34b26b5
+V
+&src/main/java/utils/CookieManager.java,2\4\24663854cd5a5eaa773d136deb856b35ce54583e
+T
+$src/test/java/alerts/AlertTests.java,9\8\9808cf1a2358f80c911cf5168ea5f0bf3783cc16
+W
+'src/test/java/cookies/CookiesTests.java,f\2\f23f4c431a9677df19e6b1f73b0b1a89baa2feb4
+Q
+!src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
+V
+&src/main/java/utils/WindowManager.java,3\a\3ad9ad91c35680a62ff6adb25a1cb8b5a4141121
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

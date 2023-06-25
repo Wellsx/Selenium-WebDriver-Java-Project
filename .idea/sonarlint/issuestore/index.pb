@@ -34,8 +34,6 @@ Y
 )src/main/java/pages/NestedFramesPage.java,b\5\b5f6f6868250c4419e7261500d215c37d6864f3e
 Z
 *src/main/java/pages/WysiwygEditorPage.java,0\d\0d1966bb8390eca24ce514f412a0bceefae26fe0
-Y
-)src/test/java/alerts/FileUploadTests.java,1\4\148ee20939b4dc053cfcb4ad763d3bfcb3600a60
 T
 $src/test/java/frames/FrameTests.java,3\6\36a2c74e426f667246bb688f1e4a086754a867bb
 Z
@@ -66,3 +64,15 @@ c
 -src/test/java/navigation/NavigationTests.java,9\9\99e3d110b55779c83b50c06039aa72c1019b6906
 V
 &src/test/java/windows/WindowTests.java,9\b\9bcfcefd8894c04af24b5204aef84db15d6bf85d
+V
+&src/main/java/utils/CookieManager.java,2\4\24663854cd5a5eaa773d136deb856b35ce54583e
+W
+'src/test/java/cookies/CookiesTests.java,f\2\f23f4c431a9677df19e6b1f73b0b1a89baa2feb4
+Q
+!src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
+V
+&src/main/java/utils/WindowManager.java,3\a\3ad9ad91c35680a62ff6adb25a1cb8b5a4141121
+T
+$src/test/java/alerts/AlertTests.java,9\8\9808cf1a2358f80c911cf5168ea5f0bf3783cc16
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
