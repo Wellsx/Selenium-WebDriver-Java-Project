@@ -90,7 +90,7 @@ public class BaseTests {
         options.addArguments("disable-infobars");
         var headless = Boolean.parseBoolean(System.getenv("HEADLESS_CHROME")) | false;
         options.setHeadless(headless);
-        //options.addArguments("--headless");
+        options.addArguments("--headless");
         return options;
     }
 

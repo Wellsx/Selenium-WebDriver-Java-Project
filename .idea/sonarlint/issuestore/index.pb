@@ -10,8 +10,6 @@ W
 'src/main/java/pages/SecureAreaPage.java,7\e\7e9ea41289e5d3185d869c5abf42d085354a243f
 S
 #src/test/java/login/LoginTests.java,a\6\a634ecbd07c15b5415c319bedbe46cae7cc5d495
-`
-0src/test/java/passwords/ForgotPasswordTests.java,e\6\e667d7d72c285a35271c35b6e4d6ffe3b221a45a
 _
 /src/test/java/slider/HorizontalSliderTests.java,9\1\9144968fc7897c82cee7ba9c8e9fd1bcaf6de3a5
 S
@@ -26,8 +24,6 @@ V
 &src/main/java/pages/EmailSentPage.java,8\4\84093fc5ee31d54d18f374ab96c0c56de4f0c48b
 Y
 )src/test/java/dropdown/DropdownTests.java,4\2\42e569fc4b751e62b2b83db6b44b569b71622cc1
-W
-'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
 S
 #src/main/java/pages/FramesPage.java,1\7\176be69f6ea5b4a67122652943583b657b456c9d
 Y
@@ -36,8 +32,6 @@ Z
 *src/main/java/pages/WysiwygEditorPage.java,0\d\0d1966bb8390eca24ce514f412a0bceefae26fe0
 T
 $src/test/java/frames/FrameTests.java,3\6\36a2c74e426f667246bb688f1e4a086754a867bb
-Z
-*src/test/java/alerts/ContextMenuTests.java,4\c\4c92211a5d39c431de34cb40c5d69ecabf68626f
 Q
 !src/test/java/wait/WaitTests.java,1\4\14e971e732696d627bb24705b74e869ee356bb96
 [
@@ -54,16 +48,12 @@ X
 (src/main/java/pages/ContextMenuPage.java,a\b\abd1a4d39d556ae0eeacc8f0921555ee280c62f9
 W
 'src/main/java/pages/KeyPressesPage.java,4\b\4be6cffeccc5304611600a746a25c5cef381b4bb
-c
-3src/main/java/pages/DynamicLoadingExample2Page.java,f\2\f2960049d72476a4d7fc7770fb7b439a7a0fddaf
 [
 +src/main/java/pages/DynamicLoadingPage.java,d\d\dd15740d7a40548b43b88d309a9c1db0c34b26b5
 \
 ,src/main/java/pages/MultipleWindowsPage.java,8\a\8abb2c33f59ea6e65b993f5519180afbbe8897d5
 ]
 -src/test/java/navigation/NavigationTests.java,9\9\99e3d110b55779c83b50c06039aa72c1019b6906
-V
-&src/test/java/windows/WindowTests.java,9\b\9bcfcefd8894c04af24b5204aef84db15d6bf85d
 V
 &src/main/java/utils/CookieManager.java,2\4\24663854cd5a5eaa773d136deb856b35ce54583e
 W
@@ -72,7 +62,5 @@ Q
 !src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
 V
 &src/main/java/utils/WindowManager.java,3\a\3ad9ad91c35680a62ff6adb25a1cb8b5a4141121
-T
-$src/test/java/alerts/AlertTests.java,9\8\9808cf1a2358f80c911cf5168ea5f0bf3783cc16
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

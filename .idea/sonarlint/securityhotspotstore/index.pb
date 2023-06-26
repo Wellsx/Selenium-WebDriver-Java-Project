@@ -6,8 +6,6 @@
 -src/main/java/pages/HorizontalSliderPage.java,2\0\2088df7b6d8ce8739d5028751ee9be54033a3290
 _
 /src/test/java/slider/HorizontalSliderTests.java,9\1\9144968fc7897c82cee7ba9c8e9fd1bcaf6de3a5
-`
-0src/test/java/passwords/ForgotPasswordTests.java,e\6\e667d7d72c285a35271c35b6e4d6ffe3b221a45a
 R
 "src/main/java/pages/LoginPage.java,4\b\4bdc7fe650a4170fd3332cdfc4dca51f7507f98b
 W
@@ -24,8 +22,6 @@ S
 #src/main/java/pages/AlertsPage.java,7\b\7b7b098dd5bf296710e5b233634cec71403e76ae
 V
 &src/main/java/pages/EmailSentPage.java,8\4\84093fc5ee31d54d18f374ab96c0c56de4f0c48b
-W
-'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
 Z
 *src/main/java/pages/WysiwygEditorPage.java,0\d\0d1966bb8390eca24ce514f412a0bceefae26fe0
 T
@@ -36,8 +32,6 @@ Y
 )src/main/java/pages/NestedFramesPage.java,b\5\b5f6f6868250c4419e7261500d215c37d6864f3e
 Q
 !src/test/java/wait/WaitTests.java,1\4\14e971e732696d627bb24705b74e869ee356bb96
-Z
-*src/test/java/alerts/ContextMenuTests.java,4\c\4c92211a5d39c431de34cb40c5d69ecabf68626f
 Y
 )src/test/java/dropdown/DropdownTests.java,4\2\42e569fc4b751e62b2b83db6b44b569b71622cc1
 \
@@ -56,18 +50,12 @@ W
 'src/main/java/pages/KeyPressesPage.java,4\b\4be6cffeccc5304611600a746a25c5cef381b4bb
 ]
 -src/test/java/navigation/NavigationTests.java,9\9\99e3d110b55779c83b50c06039aa72c1019b6906
-c
-3src/main/java/pages/DynamicLoadingExample2Page.java,f\2\f2960049d72476a4d7fc7770fb7b439a7a0fddaf
-V
-&src/test/java/windows/WindowTests.java,9\b\9bcfcefd8894c04af24b5204aef84db15d6bf85d
 \
 ,src/main/java/pages/MultipleWindowsPage.java,8\a\8abb2c33f59ea6e65b993f5519180afbbe8897d5
 [
 +src/main/java/pages/DynamicLoadingPage.java,d\d\dd15740d7a40548b43b88d309a9c1db0c34b26b5
 V
 &src/main/java/utils/CookieManager.java,2\4\24663854cd5a5eaa773d136deb856b35ce54583e
-T
-$src/test/java/alerts/AlertTests.java,9\8\9808cf1a2358f80c911cf5168ea5f0bf3783cc16
 W
 'src/test/java/cookies/CookiesTests.java,f\2\f23f4c431a9677df19e6b1f73b0b1a89baa2feb4
 Q
