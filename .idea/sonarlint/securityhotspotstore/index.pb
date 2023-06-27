@@ -64,8 +64,6 @@ V
 &src/main/java/utils/WindowManager.java,3\a\3ad9ad91c35680a62ff6adb25a1cb8b5a4141121
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-c
-3src/main/java/pages/DynamicLoadingExample2Page.java,f\2\f2960049d72476a4d7fc7770fb7b439a7a0fddaf
 W
 'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
 T

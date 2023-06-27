@@ -15,10 +15,10 @@ public class WindowTests extends BaseTests {
         example2.getStart();
         assertTrue(example2.getStart(), "Start button is not displayed");
 
-
-
-
-
-
     }
+
+
+
+
 }
+

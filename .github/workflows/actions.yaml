@@ -15,6 +15,9 @@ jobs:
       HEADLESS_CHROME: true
 
     steps:
+      # Set start time
+      - name: Set start time
+        run: echo "START_TIME=$(date +%s)" >> $GITHUB_ENV
       - uses: actions/checkout@v3
         # Install Java
       - uses: actions/setup-java@v3
@@ -25,3 +28,7 @@ jobs:
       - name: Run tests with maven
         run: mvn test
             # Handle remote server chromedriver
+
+      - name: Collect build data
+        if: always()
+        run: expr $(date +%s) - ${START_TIME}
