@@ -62,8 +62,6 @@ Q
 !src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
 V
 &src/main/java/utils/WindowManager.java,3\a\3ad9ad91c35680a62ff6adb25a1cb8b5a4141121
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 W
 'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
 T

@@ -1,6 +1,6 @@
 # Selenium with Java and TestNG for The Internet App
 
-[![Build Status](https://img.shields.io/travis/your-username/your-repo.svg)](https://travis-ci.org/your-username/your-repo)
+[![on_push](https://github.com/Wellsx/Selenium-WebDriver-Java-Project/actions/workflows/actions.yaml/badge.svg)](https://github.com/Wellsx/Selenium-WebDriver-Java-Project/actions/workflows/actions.yaml)
 
 This repository contains a Selenium automation framework using Java and TestNG for testing the https://the-internet.herokuapp.com/ application. The framework follows the Page-Object Model (POM) design pattern, enabling easy maintenance and scalability of tests.
 
