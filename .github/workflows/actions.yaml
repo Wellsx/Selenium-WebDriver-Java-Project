@@ -27,12 +27,11 @@ jobs:
         # Run mvn test
       - name: Run tests with maven
         run: mvn test
-            # Handle remote server chromedriver
-
+        # Handle remote server chromedriver
       - name: Collect build data
         if: always()
         run: |
           echo "TOTAL_DURATION=$(expr $(date +%s) - ${START_TIME})"
-       # Run the script to extract test results
+        # Run the script to extract test results
           ./resources/test_result_script.sh
 
