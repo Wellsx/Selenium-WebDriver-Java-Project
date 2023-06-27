@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 ###################################################################################################
 #     This is extracting the values for each test suite description.                              #
